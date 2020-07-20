@@ -1,6 +1,6 @@
 # Lee Jun Won
 
-> High-student-3grade studen dreaming of bigdata scientist
+> High-student-3grade student dreaming of bigdata scientist
 
 
 # **Curriculum**
